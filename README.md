@@ -1,5 +1,5 @@
 
-
+<img width="1100px" src="Blue Modern Tech Company LinkedIn Banner .gif" />
 <p align="center">
   
   
