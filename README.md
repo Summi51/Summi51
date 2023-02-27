@@ -62,7 +62,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
  </div>
 
-[![](https://visitcount.itsvg.in/api?id=SurajSingh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sammi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
