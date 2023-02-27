@@ -20,7 +20,7 @@
 An aspiring Full Stack Developer from India. <br> <br>
 
 - ➡ 🌱 I’m currently learning : *Typescript* <br>
-- ➡ 📫 How to reach me : *https://github.com/Suraj121704c* <br>
+- ➡ 📫 How to reach me : *https://github.com/Summi51* <br>
 - ➡ ⚡ Fun fact **“Java is to JavaScript what car is to Carpet.”**<br>
 - ➡ 🌱 I’m aspiring to learn : *Python* <br>
 - ➡ 📫 Graduated From : *https://www.masaischool.com/* <br>
