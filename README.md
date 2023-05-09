@@ -19,7 +19,6 @@
 
 An aspiring Full Stack Developer from India. <br> <br>
 
-- ➡ 🌱 Connect Me : *https://summi51.github.io/* <br>
 - ➡ 🌱 I’m currently learning : *Typescript* <br>
 - ➡ 📫 How to reach me : *https://summi51.github.io/* <br>
 - ➡ ⚡ Fun fact **“Java is to JavaScript what car is to Carpet.”**<br>
