@@ -21,7 +21,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
 - ➡ 🌱 I’m currently learning : *React Native* <br>
 - ➡ 📫 How to reach me : *https://summi51.github.io/* <br>
-- ➡ 📫 Connected Me : *https://www.linkedin.com/in/samreen-inayat-5863001b8/* <br>
+- ➡ 📫 Connected Me : *https://www.linkedin.com/in/samreen-inayat/* <br>
 - ➡ ⚡ Fun fact **“Java is to JavaScript what car is to Carpet.”**<br>
 - ➡ 🌱 I’m aspiring to learn : *MERN-Stack Development* <br>
 - ➡ 📫 Graduated From : *https://www.masaischool.com/* <br>
