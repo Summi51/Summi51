@@ -19,7 +19,6 @@
 
 An aspiring Full Stack Developer from India. <br> <br>
 
-- ➡ 🌱 I’m currently learning : *React Native* <br>
 - ➡ 📫 How to reach me : *https://summi51.github.io/* <br>
 - ➡ 📫 Reachout Me : *https://www.linkedin.com/in/samreen-inayat*<br>
 - ➡ 🌱 I’m aspiring to learn : *MERN-Stack Development* <br>
